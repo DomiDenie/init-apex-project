@@ -1,0 +1,32 @@
+{
+  "name": "init-apex-project",
+  "version": "1.0.0",
+  "description": "initializer for Oracle apex projects",
+  "main": "./lib/main.js",
+  "bin": {
+    "init-apex-project": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DomiDenie/init-apex-project.git"
+  },
+  "keywords": [
+    "oracle",
+    "apex",
+    "oracle",
+    "apex",
+    "initializer"
+  ],
+  "author": "Dominique Denie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DomiDenie/init-apex-project/issues"
+  },
+  "homepage": "https://github.com/DomiDenie/init-apex-project#readme",
+  "dependencies": {
+    "prompts": "^2.1.0"
+  }
+}
