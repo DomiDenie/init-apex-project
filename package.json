@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/DomiDenie/init-apex-project#readme",
   "dependencies": {
+    "folder-structure-generator": "^1.0.5",
     "prompts": "^2.1.0"
   }
 }
