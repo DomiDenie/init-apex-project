@@ -1,0 +1,34 @@
+[
+  {
+    "name": "release",
+    "children": [ { "name": "README.emptydir" } ]
+  },
+  {
+    "name": "source",
+    "children": [ { "name": "app", 
+                    "children": [ { "name": "README.emptydir" } ]
+                  },
+                  { "name": "build",
+                    "children": [ { "name": "README.emptydir" } ]
+                  },
+                  { "name": "data",
+                    "children": [ { "name": "README.emptydir" } ]
+                  },
+                  { "name": "database",
+                    "children": [ ] 
+                  },
+                  { "name" : "datamodel"
+                  , "children": [ { "name": "README.emptydir" } ]
+                  },
+                  { "name": "docs"
+                  , "children": [ { "name": "README.emptydir" } ]
+                  },
+                  { "name": "images"
+                  , "children": [ { "name":"README.emptydir"}]
+                  },
+                  { "name": "workspace"
+                  , "children": [ { "name":"README.emptydir" }]
+                  }
+    ]
+  }
+]
