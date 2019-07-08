@@ -50,5 +50,9 @@
   {
     "name": "views",
     "children": [ { "name": "README.emptydir" } ]
+  },
+  {
+    "name" : "synonyms",
+    "children": [ { "name" : "README.emptydir"}]
   }
 ]
