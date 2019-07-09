@@ -54,5 +54,13 @@
   {
     "name" : "synonyms",
     "children": [ { "name" : "README.emptydir"}]
+  },
+  {
+    "name" : "database_links",
+    "children": [ { "name" : "README.emptydir"}]
+  },
+  {
+    "name" : "grants",
+    "children": [ { "name" : "README.emptydir"}]
   }
 ]
