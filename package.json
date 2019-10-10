@@ -1,6 +1,6 @@
 {
   "name": "init-apex-project",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "initializer for Oracle apex projects",
   "main": "./lib/main.js",
   "bin": {
@@ -27,7 +27,8 @@
   },
   "homepage": "https://github.com/DomiDenie/init-apex-project#readme",
   "dependencies": {
-    "folder-structure-generator": "^1.0.5",
-    "prompts": "^2.1.0"
+    "mkdirp-sync": "0.0.3",
+    "prompts": "^2.1.0",
+    "simple-git": "^1.126.0"
   }
 }
