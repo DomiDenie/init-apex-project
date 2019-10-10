@@ -28,6 +28,7 @@
   "homepage": "https://github.com/DomiDenie/init-apex-project#readme",
   "dependencies": {
     "mkdirp-sync": "0.0.3",
+    "pretty-error": "^2.1.1",
     "prompts": "^2.1.0",
     "simple-git": "^1.126.0"
   }
