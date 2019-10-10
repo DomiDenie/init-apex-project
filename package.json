@@ -1,6 +1,6 @@
 {
   "name": "init-apex-project",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "initializer for Oracle apex projects",
   "main": "./lib/main.js",
   "bin": {
