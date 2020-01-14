@@ -15,7 +15,7 @@ After that you can run
 Run this command your Projects folder ( or in an other folder you wish to start the project in )
 
 ## example
-![example](https://user-images.githubusercontent.com/5206375/61128441-1f6ecd80-a4b2-11e9-8f83-4539188a3bf3.gif)
+![example](https://user-images.githubusercontent.com/5206375/72353761-e0316b80-36e4-11ea-8ec0-2f4efa6604be.gif)
 
 
 # versions
