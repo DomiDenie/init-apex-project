@@ -1,66 +1,42 @@
 [
   {
-    "name" : "constraints",
-    "children": [ { "name": "README.emptydir" } ]
-  },
-  {
-    "name": "functions",
-    "children": [ { "name": "README.emptydir" } ]
-  },
-  {
-    "name" : "indexes",
-    "children": [ { "name": "README.emptydir" } ]
+    "name": "data",
+    "children": [{ "name": "README.emptydir" }]
   },
   {
     "name": "package_bodies",
-    "children": [ { "name": "README.emptydir" } ]
-  },
-  {
-    "name": "package_bodies",
-    "children": [ { "name": "README.emptydir" } ]
+    "children": [{ "name": "README.emptydir" }]
   },
   {
     "name": "package_specs",
-    "children": [ { "name": "README.emptydir" } ]
-  },
-  {
-    "name": "procedures",
-    "children": [ { "name": "README.emptydir" } ]
+    "children": [{ "name": "README.emptydir" }]
   },
   {
     "name": "refconstraints",
-    "children": [ { "name": "README.emptydir" } ]
-  },
-  {
-    "name": "sequences",
-    "children": [ { "name": "README.emptydir" } ]
+    "children": [{ "name": "README.emptydir" }]
   },
   {
     "name": "tables",
-    "children": [ { "name": "README.emptydir" } ]
+    "children": [{ "name": "README.emptydir" }]
   },
   {
     "name": "triggers",
-    "children": [ { "name": "README.emptydir" } ]
-  },
-  {
-    "name": "types",
-    "children": [ { "name": "README.emptydir" } ]
+    "children": [{ "name": "README.emptydir" }]
   },
   {
     "name": "views",
-    "children": [ { "name": "README.emptydir" } ]
+    "children": [{ "name": "README.emptydir" }]
   },
   {
-    "name" : "synonyms",
-    "children": [ { "name" : "README.emptydir"}]
+    "name": "grants",
+    "children": [{ "name": "README.emptydir" }]
   },
   {
-    "name" : "database_links",
-    "children": [ { "name" : "README.emptydir"}]
+    "name": "pre_install",
+    "children": [{ "name": "README.emptydir" }]
   },
   {
-    "name" : "grants",
-    "children": [ { "name" : "README.emptydir"}]
+    "name": "post_install",
+    "children": [{ "name": "README.emptydir" }]
   }
 ]
