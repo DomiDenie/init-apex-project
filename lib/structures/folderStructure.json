@@ -1,34 +1,21 @@
 [
   {
-    "name": "release",
-    "children": [ { "name": "README.emptydir" } ]
+    "name": "releases",
+    "children": [
+      { "name": "YYYYMMDD_v1.0", "children": [{ "name": "README.emptydir" }] },
+      { "name": "release.sql" }
+    ]
   },
   {
     "name": "source",
-    "children": [ { "name": "app", 
-                    "children": [ { "name": "README.emptydir" } ]
-                  },
-                  { "name": "build",
-                    "children": [ { "name": "README.emptydir" } ]
-                  },
-                  { "name": "data",
-                    "children": [ { "name": "README.emptydir" } ]
-                  },
-                  { "name": "database",
-                    "children": [ ] 
-                  },
-                  { "name" : "datamodel"
-                  , "children": [ { "name": "README.emptydir" } ]
-                  },
-                  { "name": "docs"
-                  , "children": [ { "name": "README.emptydir" } ]
-                  },
-                  { "name": "images"
-                  , "children": [ { "name":"README.emptydir"}]
-                  },
-                  { "name": "workspace"
-                  , "children": [ { "name":"README.emptydir" }]
-                  }
+    "children": [
+      { "name": "app", "children": [{ "name": "README.emptydir" }] },
+      { "name": "data", "children": [{ "name": "README.emptydir" }] },
+      { "name": "database", "children": [] },
+      { "name": "datamodel", "children": [{ "name": "README.emptydir" }] },
+      { "name": "docs", "children": [{ "name": "README.emptydir" }] },
+      { "name": "images", "children": [{ "name": "README.emptydir" }] },
+      { "name": "workspace", "children": [{ "name": "README.emptydir" }] }
     ]
   }
 ]
